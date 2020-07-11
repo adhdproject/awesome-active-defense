@@ -38,7 +38,7 @@ an awesome list of active defense resources
 - [Honeybadger](https://github.com/adhdproject/honeybadger) - A framework for targeted geolocation
 - [Jar-Combiner](https://bitbucket.org/ethanr/jar-combiner) - A tool to combine Java applets
 - [OpenCanary](https://github.com/thinkst/canarytokens-docker) - A program to host a local CanaryTokens server
-- [RITA](https://github.com/activecm/rita) An open source framework for network traffic analysis (Currently not installed on ADHD4)
+- [RITA](https://github.com/activecm/rita) - An open source framework for network traffic analysis (Currently not installed on ADHD4)
 - [Web Bug Server](https://bitbucket.org/ethanr/webbugserver) - A tool for embedding web bugs inside word processing documents
 
 ### Attack
